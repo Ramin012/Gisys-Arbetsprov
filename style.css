@@ -1,0 +1,7 @@
+#items:hover {
+  background-color: gray;
+}
+
+.list-group-item:hover {
+  background-color: gray;
+}
